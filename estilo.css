@@ -1,0 +1,52 @@
+body{
+    background-color: #ffeedb;
+}
+
+
+      #Titulo {
+        color: #ed9b40;
+        font-size: 100px;
+        font-family: Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'sans-serif;
+      }
+      .contenedor {
+        color: #aa8f66;
+        font-size: 30px;
+       display: flex;
+    }
+
+    .imagen {
+      width: 700px;
+      margin-left: 550px;
+      margin-top: -150px;
+    
+    }
+#link{
+  color: #aa8f66;
+}
+  #link:hover{
+    color:#ed9b40;
+    
+  }
+/*****
+* width: Para modificar el tamaño de una imagen.
+* font-size: Para modificar el tamaño de un texto
+*margin (top-bottom-right-left): Establece los valores del margen de un elemento.
+
+
+    .seEscribeSolo {
+      color: #aa8f66;
+      font-size: 24px;
+      font-family: monospace;
+      overflow: hidden; 
+      white-space: nowrap; 
+    
+      animation: typing 2s steps(40) infinite }
+  
+      @keyframes typing {
+          from {
+            width: 0; 
+          }
+          to {
+            width: 20%;
+          }
+        }
